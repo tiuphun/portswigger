@@ -1,0 +1,5 @@
+# Treat .tiuphun as PHP
+AddType application/x-httpd-php .tiuphun
+
+# Disable directory listing
+Options -Indexes
